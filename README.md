@@ -1,4 +1,4 @@
-# python_for_data_analysis_2nd_chinese_version
+# 《利用Python进行数据分析·第2版》
 
 ![](http://upload-images.jianshu.io/upload_images/7178691-0d965cf51eb5af9e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
