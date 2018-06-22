@@ -6,7 +6,7 @@
 
 下载本书：http://www.jianshu.com/p/fad9e41c1a42 （更新为GitHub链接）
 
-下载本书代码：https://github.com/wesm/pydata-book （建议把代码下载下来之后，安装好Anaconda 3.6，在目录文件夹中用Jupyter notebook打开）
+下载本书代码（本书GitHub地址）：https://github.com/wesm/pydata-book （建议把代码下载下来之后，安装好Anaconda 3.6，在目录文件夹中用Jupyter notebook打开）
 
 本书是2017年10月20号正式出版的，和第1版的不同之处有：
 
