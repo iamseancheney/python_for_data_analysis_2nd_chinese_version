@@ -16,7 +16,7 @@
 > * 流畅的Python，Luciano Ramalho著 \(O’Reilly\)
 > * 高效的Python，Brett Slatkin著 \(Pearson\)
 
-## 2.1 Python解释器
+## 2.1 Python解释器 
 
 Python是解释性语言。Python解释器同一时间只能运行一个程序的一条语句。标准的交互Python解释器可以在命令行中通过键入`python`命令打开：
 
