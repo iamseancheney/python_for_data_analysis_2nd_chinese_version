@@ -59,10 +59,10 @@ In [2]:
 
 IPython默认采用序号的格式``In [2]:``，与标准的``>>>``提示符不同。
 
-#2.2 IPython基础
+# 2.2 IPython基础
 在本节中，我们会教你打开运行IPython shell和jupyter notebook，并介绍一些基本概念。
 
-##运行IPython Shell
+## 运行IPython Shell
 你可以用``ipython``在命令行打开IPython Shell，就像打开普通的Python解释器：
 ```
 $ ipython
@@ -111,7 +111,7 @@ Out[7]:
 
 IPython还支持执行任意代码块（通过一个华丽的复制-粘贴方法）和整段Python脚本的功能。你也可以使用Jupyter notebook运行大代码块，接下来就会看到。
 
-##运行Jupyter Notebook
+## 运行Jupyter Notebook
 notebook是Jupyter项目的重要组件之一，它是一个代码、文本（有标记或无标记）、数据可视化或其它输出的交互式文档。Jupyter Notebook需要与内核互动，内核是Jupyter与其它编程语言的交互编程协议。Python的Jupyter内核是使用IPython。要启动Jupyter，在命令行中输入``jupyter notebook``:
 ```
 $ jupyter notebook
@@ -144,7 +144,7 @@ Created new window in existing browser session.
 
 ![图2-3 Jupyter查看一个存在的notebook的页面](http://upload-images.jianshu.io/upload_images/7178691-bc9a0b4c30363747.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##Tab补全
+## Tab补全
 从外观上，IPython shell和标准的Python解释器只是看起来不同。IPython shell的进步之一是具备其它IDE和交互计算分析环境都有的tab补全功能。在shell中输入表达式，按下Tab，会搜索已输入变量（对象、函数等等）的命名空间：
 ```
 In [1]: an_apple = 27
@@ -199,7 +199,7 @@ datasets/movielens/ratings.dat   datasets/movielens/users.dat
 
 后面会仔细地学习函数。
 
-##自省
+## 自省
 在变量前后使用问号？，可以显示对象的信息：
 ```python
 In [8]: b = [1, 2, 3]
@@ -280,7 +280,7 @@ np.loadtxt
 np.pkgload
 ```
 
-##%run命令
+## %run命令
 你可以用``%run``命令运行所有的Python程序。假设有一个文件``ipython_script_test.py``：
 ```python
 def f(x, y, z):
@@ -326,12 +326,12 @@ Out[16]: 1.4666666666666666
     result = f(a, b, c)
 ```
 
-##中断运行的代码
+## 中断运行的代码
 代码运行时按Ctrl-C，无论是%run或长时间运行命令，都会导致``KeyboardInterrupt``。这会导致几乎所有Python程序立即停止，除非一些特殊情况。
 
 >警告：当Python代码调用了一些编译的扩展模块，按Ctrl-C不一定将执行的程序立即停止。在这种情况下，你必须等待，直到控制返回Python解释器，或者在更糟糕的情况下强制终止Python进程。
 
-##从剪贴板执行程序
+## 从剪贴板执行程序
 如果使用Jupyter notebook，你可以将代码复制粘贴到任意代码格执行。在IPython shell中也可以从剪贴板执行。假设在其它应用中复制了如下代码：
 ```python
 x = 5
@@ -369,7 +369,7 @@ Pasting code; enter '--' alone on the line to stop or use Ctrl-D.
 
 使用``%cpaste``，你可以粘贴任意多的代码再运行。你可能想在运行前，先看看代码。如果粘贴了错误的代码，可以用Ctrl-C中断。
 
-##键盘快捷键
+## 键盘快捷键
 IPython有许多键盘快捷键进行导航提示（类似Emacs文本编辑器或UNIX  bash Shell）和交互shell的历史命令。表2-1总结了常见的快捷键。图2-5展示了一部分，如移动光标。
 
 
@@ -380,7 +380,7 @@ IPython有许多键盘快捷键进行导航提示（类似Emacs文本编辑器�
 
 Jupyter notebooks有另外一套庞大的快捷键。因为它的快捷键比IPython的变化快，建议你参阅Jupyter notebook的帮助文档。
 
-##魔术命令
+## 魔术命令
 IPython中特殊的命令（Python中没有）被称作“魔术”命令。这些命令可以使普通任务更便捷，更容易控制IPython系统。魔术命令是在指令前添加百分号%前缀。例如，可以用``%timeit``（这个命令后面会详谈）测量任何Python语句，例如矩阵乘法，的执行时间：
 ```python
 In [20]: a = np.random.randn(100, 100)
@@ -442,7 +442,7 @@ IPython的文档可以在shell中打开，我建议你用``%quickref``或``%magi
 
 ![表2-2 一些常用的IPython魔术命令](http://upload-images.jianshu.io/upload_images/7178691-c72b11add9b8ccf8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##集成Matplotlib
+## 集成Matplotlib
 IPython在分析计算领域能够流行的原因之一是它非常好的集成了数据可视化和其它用户界面库，比如matplotlib。不用担心以前没用过matplotlib，本书后面会详细介绍。``%matplotlib``魔术函数配置了IPython shell和Jupyter notebook中的matplotlib。这点很重要，其它创建的图不会出现（notebook）或获取session的控制，直到结束（shell）。
 
 在IPython shell中，运行``%matplotlib``可以进行设置，可以创建多个绘图窗口，而不会干扰控制台session：
@@ -459,13 +459,13 @@ In [26]: %matplotlib inline
 
 ![图2-6 Jupyter行内matplotlib作图](http://upload-images.jianshu.io/upload_images/7178691-3ab3738a92a15486.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#2.3 Python语法基础
+# 2.3 Python语法基础
 在本节中，我将概述基本的Python概念和语言机制。在下一章，我将详细介绍Python的数据结构、函数和其它内建工具。
 
-##语言的语义
+## 语言的语义
 Python的语言设计强调的是可读性、简洁和清晰。有些人称Python为“可执行的伪代码”。
 
-##使用缩进，而不是括号
+## 使用缩进，而不是括号
 Python使用空白字符（tab和空格）来组织代码，而不是像其它语言，比如R、C++、JAVA和Perl那样使用括号。看一个排序算法的``for``循环：
 ```python
 for x in array:
@@ -486,10 +486,10 @@ a = 5; b = 6; c = 7
 
 Python不建议将多条语句放到一行，这会降低代码的可读性。
 
-##万物皆对象
+## 万物皆对象
 Python语言的一个重要特性就是它的对象模型的一致性。每个数字、字符串、数据结构、函数、类、模块等等，都是在Python解释器的自有“盒子”内，它被认为是Python对象。每个对象都有类型（例如，字符串或函数）和内部数据。在实际中，这可以让语言非常灵活，因为函数也可以被当做对象使用。
 
-##注释
+## 注释
 任何前面带有井号#的文本都会被Python解释器忽略。这通常被用来添加注释。有时，你会想排除一段代码，但并不删除。简便的方法就是将其注释掉：
 ```python
 results = []
@@ -505,7 +505,7 @@ for line in file_handle:
 print("Reached this line")  # Simple status report
 ```
 
-##函数和对象方法调用
+## 函数和对象方法调用
 你可以用圆括号调用函数，传递零个或几个参数，或者将返回值给一个变量：
 ```python
 result = f(x, y, z)
@@ -524,7 +524,7 @@ result = f(a, b, c, d=5, e='foo')
 
 后面会有更多介绍。
 
-##变量和参数传递
+## 变量和参数传递
 当在Python中创建变量（或名字），你就在等号右边创建了一个对这个变量的引用。考虑一个整数列表：
 ```python
 In [8]: a = [1, 2, 3]
@@ -623,7 +623,7 @@ In [25]: isinstance(b, (int, float))
 Out[25]: True
 ```
 
-##属性和方法
+## 属性和方法
 Python的对象通常都有属性（其它存储在对象内部的Python对象）和方法（对象的附属函数可以访问对象的内部数据）。可以用``obj.attribute_name``访问属性和方法：
 ```
 In [1]: a = 'foo'
@@ -647,7 +647,7 @@ Out[27]: <function str.split>
 
 在其它语言中，访问对象的名字通常称作“反射”。本书不会大量使用``getattr``函数和相关的``hasattr``和``setattr``函数，使用这些函数可以高效编写原生的、可重复使用的代码。
 
-##鸭子类型
+## 鸭子类型
 经常地，你可能不关心对象的类型，只关心对象是否有某些方法或用途。这通常被称为“鸭子类型”，来自“走起来像鸭子、叫起来像鸭子，那么它就是鸭子”的说法。例如，你可以通过验证一个对象是否遵循迭代协议，判断它是可迭代的。对于许多对象，这意味着它有一个``__iter__``魔术方法，其它更好的判断方法是使用``iter``函数：
 ```python
 def isiterable(obj):
@@ -676,7 +676,7 @@ if not isinstance(x, list) and isiterable(x):
     x = list(x)
 ```
 
-##引入
+## 引入
 在Python中，模块就是一个有``.py``扩展名、包含Python代码的文件。假设有以下模块：
 ```python
 # some_module.py
@@ -711,7 +711,7 @@ r1 = sm.f(pi)
 r2 = gf(6, pi)
 ```
 
-##二元运算符和比较运算符
+## 二元运算符和比较运算符
 大多数二元数学运算和比较都不难想到：
 ```python
 In [32]: 5 - 7
@@ -757,7 +757,7 @@ Out[42]: True
 
 ![表2-3 二元运算符](http://upload-images.jianshu.io/upload_images/7178691-9fb5f25b33166acf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##可变与不可变对象
+## 可变与不可变对象
 Python中的大多数对象，比如列表、字典、NumPy数组，和用户定义的类型（类），都是可变的。意味着这些对象或包含的值可以被修改：
 ```python
 In [43]: a_list = ['foo', 2, [4, 5]]
@@ -782,13 +782,13 @@ TypeError: 'tuple' object does not support item assignment
 
 记住，可以修改一个对象并不意味就要修改它。这被称为副作用。例如，当写一个函数，任何副作用都要在文档或注释中写明。如果可能的话，我推荐避免副作用，采用不可变的方式，即使要用到可变对象。
 
-##标量类型
+## 标量类型
 Python的标准库中有一些内建的类型，用于处理数值数据、字符串、布尔值，和日期时间。这些单值类型被称为标量类型，本书中称其为标量。表2-4列出了主要的标量。日期和时间处理会另外讨论，因为它们是标准库的``datetime``模块提供的。
 
 
 ![表2-4 Python的标量](http://upload-images.jianshu.io/upload_images/7178691-27a30ac3e7d262a1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##数值类型
+## 数值类型
 Python的主要数值类型是``int``和``float``。``int``可以存储任意大的数：
 ```python
 In [48]: ival = 17239871
@@ -816,7 +816,7 @@ In [53]: 3 // 2
 Out[53]: 1
 ```
 
-##字符串
+## 字符串
 许多人是因为Python强大而灵活的字符串处理而使用Python的。你可以用单引号或双引号来写字符串：
 ```python
 a = 'one way of writing a string'
@@ -985,7 +985,7 @@ In [88]: decoded  # this is str (Unicode) now
 Out[88]: 'this is bytes'
 ```
 
-##布尔值
+## 布尔值
 Python中的布尔值有两个，True和False。比较和其它条件表达式可以用True和False判断。布尔值可以与and和or结合使用：
 ```python
 In [89]: True and True
@@ -995,7 +995,7 @@ In [90]: False or True
 Out[90]: True
 ```
 
-##类型转换
+## 类型转换
 str、bool、int和float也是函数，可以用来转换类型：
 ```python
 In [91]: s = '3.14159'
@@ -1015,7 +1015,7 @@ In [96]: bool(0)
 Out[96]: False
 ```
 
-##None
+## None
 None是Python的空值类型。如果一个函数没有明确的返回值，就会默认返回None：
 ```python
 In [97]: a = None
@@ -1118,10 +1118,10 @@ In [116]: dt + delta
 Out[116]: datetime.datetime(2011, 11, 15, 22, 30)
 ```
 
-##控制流
+## 控制流
 Python有若干内建的关键字进行条件逻辑、循环和其它控制流操作。
 
-##if、elif和else
+## if、elif和else
 if是最广为人知的控制流语句。它检查一个条件，如果为True，就执行后面的语句：
 ```python
 if x < 0:
@@ -1159,7 +1159,7 @@ In [120]: 4 > 3 > 2 > 1
 Out[120]: True
 ```
 
-##for循环
+## for循环
 for循环是在一个集合（列表或元组）中进行迭代，或者就是一个迭代器。for循环的标准语法是：
 ```python
 for value in collection:
@@ -1212,7 +1212,7 @@ for a, b, c in iterator:
     # do something
 ```
 
-##While循环
+## While循环
 while循环指定了条件和代码，当条件为False或用break退出循环，代码才会退出：
 ```python
 x = 256
@@ -1224,7 +1224,7 @@ while x > 0:
     x = x // 2
 ```
 
-##pass
+## pass
 pass是Python中的非操作语句。代码块不需要任何动作时可以使用（作为未执行代码的占位符）；因为Python需要使用空白字符划定代码块，所以需要pass：
 ```python
 if x < 0:
@@ -1236,7 +1236,7 @@ else:
     print('positive!')
 ```
 
-##range
+## range
 range函数返回一个迭代器，它产生一个均匀分布的整数序列：
 ```python
 In [122]: range(10)
@@ -1273,7 +1273,7 @@ for i in range(100000):
 
 虽然range可以产生任意大的数，但任意时刻耗用的内存却很小。
 
-##三元表达式
+## 三元表达式
 Python中的三元表达式可以将if-else语句放到一行里。语法如下：
 ```python
 value = true-expr if condition else false-expr
