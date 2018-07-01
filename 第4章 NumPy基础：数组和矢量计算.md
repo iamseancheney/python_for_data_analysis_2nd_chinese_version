@@ -1213,7 +1213,7 @@ In [218]: arch['b']
 Out[218]: array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
 ```
 
-如果数据压缩的很好，就可以使用numpy.savez_compressed：
+如果要将数据压缩，可以使用numpy.savez_compressed：
 ```python
 In [219]: np.savez_compressed('arrays_compressed.npz', a=arr, b=arr)
 ```
