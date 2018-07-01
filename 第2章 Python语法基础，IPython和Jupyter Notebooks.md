@@ -168,7 +168,7 @@ In [3]: an<Tab>
 an_apple    and         an_example  any
 ```
 
-在这个例子中，IPython呈现除了之前两个定义的变量和Python的关键字和内建的函数`any`。当然，你也可以补全任何对象的方法和属性：
+在这个例子中，IPython呈现出了之前两个定义的变量和Python的关键字和内建的函数`any`。当然，你也可以补全任何对象的方法和属性：
 
 ```text
 In [3]: b = [1, 2, 3]
