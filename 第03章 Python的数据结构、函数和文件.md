@@ -1261,7 +1261,7 @@ S ['Steven']
 ![表3-2 一些有用的itertools函数](http://upload-images.jianshu.io/upload_images/7178691-111823d8767a104d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 错误和异常处理
-优雅地处理Python的错误和异常是构建健壮程序的重要部分。在数据分析中，许多函数函数只用于部分输入。例如，Python的float函数可以将字符串转换成浮点数，但输入有误时，有``ValueError``错误：
+优雅地处理Python的错误和异常是构建健壮程序的重要部分。在数据分析中，许多函数只用于部分输入。例如，Python的float函数可以将字符串转换成浮点数，但输入有误时，有``ValueError``错误：
 
 ```python
 In [197]: float('1.2345')
