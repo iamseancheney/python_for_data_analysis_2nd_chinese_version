@@ -333,7 +333,7 @@ In [67]: arr_slice
 Out[67]: array([12, 12, 12])
 ```
 
-现在，当我修稿arr_slice中的值，变动也会体现在原始数组arr中：
+现在，当我修改arr_slice中的值，变动也会体现在原始数组arr中：
 ```python
 In [68]: arr_slice[1] = 12345
 
