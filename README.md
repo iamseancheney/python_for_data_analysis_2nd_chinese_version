@@ -4,6 +4,7 @@
     <img src="http://upload-images.jianshu.io/upload_images/7178691-0d965cf51eb5af9e.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240" width="500px">
 </div>
 
+<br/>
 
 在简书上阅读： [https://www.jianshu.com/p/04d180d90a3f](https://www.jianshu.com/p/04d180d90a3f)
 
@@ -38,6 +39,8 @@
 
 ***
 
+
 <div align=center>
+    <p>欢迎关注 ^_^</p>
     <img src="https://files.mdnice.com/user/30762/c6f8ce3c-0470-4a9d-b990-5467b5450cd5.png" height="100px">
 </div>
