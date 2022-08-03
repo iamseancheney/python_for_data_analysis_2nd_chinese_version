@@ -33,12 +33,8 @@
     <a href="https://item.jd.com/13255935.html">购买链接</a>
 </div>
 
+***
 
->> ![长按关注《Python学研大本营》](https://files.mdnice.com/user/30762/c6f8ce3c-0470-4a9d-b990-5467b5450cd5.png =70%x)
->> 
->> ![长按二维码，加入Python读者群](https://files.mdnice.com/user/30762/6744b139-b381-4f18-b0b3-03e9cf9a7d80.png =100x100)
-
-
->> ![长按关注《Java学研大本营》](https://files.mdnice.com/user/30762/88619c05-e686-40b8-9c2c-93f03226f560.png =70%x)
->> 
->> ![长按二维码，加入Java读者群](https://files.mdnice.com/user/30762/52f6df80-0473-4496-bcf3-434cc80f5cb4.png =100x100)
+<div align=center>
+    <img src="https://files.mdnice.com/user/30762/c6f8ce3c-0470-4a9d-b990-5467b5450cd5.png" height="100px">
+</div>
