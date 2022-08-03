@@ -31,7 +31,9 @@
 > 结果后来太忙搁置了，现在中文版出来了。这本书的特点是实例很多。
 
 <div align=center>
-    <img src="https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg" width="500px">
+    <a href="https://item.jd.com/13255935.html">
+        <img src="https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg" width="500px">
+    </a>
 </div>
 <div align=center>
     <a href="https://item.jd.com/13255935.html">购买链接</a>
@@ -41,6 +43,6 @@
 
 
 <div align=center>
-    <p>欢迎关注 ^_^</p>
+    <p>欢迎关注《Python学研大本营》 ^_^</p>
     <img src="https://files.mdnice.com/user/30762/c6f8ce3c-0470-4a9d-b990-5467b5450cd5.png" height="100px">
 </div>
