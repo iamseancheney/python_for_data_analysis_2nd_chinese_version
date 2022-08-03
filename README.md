@@ -22,13 +22,13 @@
 
 21年春节翻译《Pandas Cookbook》这本书，https://www.jianshu.com/p/9115de83bb88，结果后来太忙搁置了，现在中文版出来了。这本书的特点是实例很多。
 
-![《Pandas1.x实例精解》](https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg)
+![《Pandas1.x实例精解》](https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg =70%x)
 
->> ![扫码关注《Python学研大本营》（知乎CSDN专用，删）](https://files.mdnice.com/user/30762/a4ff33e2-1658-4f57-8328-6520b2a4ee69.png)
+>> ![长按关注《Python学研大本营》](https://files.mdnice.com/user/30762/c6f8ce3c-0470-4a9d-b990-5467b5450cd5.png =70%x)
 >> 
->> ![长按二维码，加入Python读者群](https://files.mdnice.com/user/30762/6744b139-b381-4f18-b0b3-03e9cf9a7d80.png)
+>> ![长按二维码，加入Python读者群](https://files.mdnice.com/user/30762/6744b139-b381-4f18-b0b3-03e9cf9a7d80.png =100x100)
 
 
->> ![扫码关注《Java学研大本营》（知乎CSDN专用，删）](https://files.mdnice.com/user/30762/f7cfba54-51f5-44f1-97e1-93bac042b6be.png)
+>> ![长按关注《Java学研大本营》](https://files.mdnice.com/user/30762/88619c05-e686-40b8-9c2c-93f03226f560.png =70%x)
 >> 
->> ![长按二维码，加入Java读者群](https://files.mdnice.com/user/30762/52f6df80-0473-4496-bcf3-434cc80f5cb4.png)
+>> ![长按二维码，加入Java读者群](https://files.mdnice.com/user/30762/52f6df80-0473-4496-bcf3-434cc80f5cb4.png =100x100)
