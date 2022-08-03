@@ -29,7 +29,9 @@
 <div align=center>
     <img src="https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg" width="500px">
 </div>
-
+<div align=center>
+    <a href="https://item.jd.com/13255935.html">购买链接</a>
+</div>
 
 
 >> ![长按关注《Python学研大本营》](https://files.mdnice.com/user/30762/c6f8ce3c-0470-4a9d-b990-5467b5450cd5.png =70%x)
