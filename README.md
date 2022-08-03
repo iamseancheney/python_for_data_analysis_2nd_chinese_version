@@ -20,3 +20,15 @@
 
 （译者注2：毫无疑问，本书是学习Python数据分析最好的参考书。本来想把书名直接译为《Python数据分析》，这样更简短。但是为了尊重第1版的翻译，考虑到继承性，还是用老书名。这样读过第一版的老读者可以方便的用之前的书名检索到第二版。作者在写第二版的时候，有些文字是照搬第一版的。所以第二版的翻译也借鉴copy了第一版翻译：即，如果第二版中有和第一版相同的文字，则copy第一版的中文译本，觉得不妥的地方会稍加修改，剩下的不同的内容就自己翻译。这样做也是为读过第一版的老读者考虑——相同的内容可以直接跳过。）
 
+21年春节翻译《Pandas Cookbook》这本书，https://www.jianshu.com/p/9115de83bb88，结果后来太忙搁置了，现在中文版出来了。这本书的特点是实例很多。
+
+![《Pandas1.x实例精解》](https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg)
+
+>> ![扫码关注《Python学研大本营》（知乎CSDN专用，删）](https://files.mdnice.com/user/30762/a4ff33e2-1658-4f57-8328-6520b2a4ee69.png)
+>> 
+>> ![长按二维码，加入Python读者群](https://files.mdnice.com/user/30762/6744b139-b381-4f18-b0b3-03e9cf9a7d80.png)
+
+
+>> ![扫码关注《Java学研大本营》（知乎CSDN专用，删）](https://files.mdnice.com/user/30762/f7cfba54-51f5-44f1-97e1-93bac042b6be.png)
+>> 
+>> ![长按二维码，加入Java读者群](https://files.mdnice.com/user/30762/52f6df80-0473-4496-bcf3-434cc80f5cb4.png)
