@@ -23,7 +23,7 @@
 21年春节翻译《Pandas Cookbook》这本书，https://www.jianshu.com/p/9115de83bb88，结果后来太忙搁置了，现在中文版出来了。这本书的特点是实例很多。
 
 <div align=center>
-    <img src="https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg" width="70px">
+    <img src="https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg" width="500px">
 </div>
 
 
