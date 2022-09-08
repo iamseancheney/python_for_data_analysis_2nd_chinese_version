@@ -38,11 +38,3 @@
 <div align=center>
     <a href="https://item.jd.com/13255935.html">购买链接</a>
 </div>
-
-***
-
-
-<div align=center>
-    <p>欢迎关注《Python学研大本营》 ^_^</p>
-    <img src="https://files.mdnice.com/user/30762/c6f8ce3c-0470-4a9d-b990-5467b5450cd5.png" height="100px">
-</div>
