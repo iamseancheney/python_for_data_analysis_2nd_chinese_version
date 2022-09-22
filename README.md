@@ -38,3 +38,20 @@
 <div align=center>
     <a href="https://item.jd.com/13255935.html">购买链接</a>
 </div>
+
+***
+
+《利用Python进行数据分析》第3版已出版，新版小鼹鼠亮相，新版对初学者更友好了。
+
+<div align=center>
+   <img src="https://upload-images.jianshu.io/upload_images/7178691-8dfb9dd7b75260aa.png" width="500px">
+</div>
+
+第三版多了**41**页内容，Pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是**紧贴Pandas升级，主要是新增了方法和特性的内容**。另外，第三版有作者的[在线开源电子版](https://wesmckinney.com/book/)了，GitHub[地址](https://github.com/wesm/pydata-book)。
+
+第三版目录略有调整，不如第二版和第一版的变化大：
+- 第4章NumPy基础新增了生成伪随机数；
+- 第7章数据清洗新增了扩展数据类型和分类数据，实际是把第二版中第12章的内容放到新版第7章里了；
+- 第11章时间序列新增了分组时间重采样。
+
+曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
