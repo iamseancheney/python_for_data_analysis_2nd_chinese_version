@@ -60,7 +60,7 @@
 
 <div align=center>
     <a href="https://item.jd.com/13255935.html">
-        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="240px">
+        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="200px">
     </a>
 </div>
 <div align=center>
