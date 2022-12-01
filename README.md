@@ -32,7 +32,7 @@
 
 <div align=center>
     <a href="https://item.jd.com/13255935.html">
-        <img src="https://files.mdnice.com/user/30879/2a46cd5d-56c3-407d-8dda-458567733855.jpg" width="500px">
+        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obhbvp37j30m80m8tal.jpg" width="500px">
     </a>
 </div>
 <div align=center>
@@ -55,3 +55,14 @@
 - 第11章时间序列新增了分组时间重采样。
 
 曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
+
+***
+
+<div align=center>
+    <a href="https://item.jd.com/13255935.html">
+        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="300px">
+    </a>
+</div>
+<div align=center>
+    <p>微信·WeChat</p>
+</div>
