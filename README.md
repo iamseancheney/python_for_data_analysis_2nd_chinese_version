@@ -58,6 +58,8 @@
 
 ***
 
+> 这两个多月又从头到尾看了遍第二版的文字，发现错误还真是不少。。。 T_T
+
 <div align=center>
     <a href="https://item.jd.com/13255935.html">
         <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="200px">
