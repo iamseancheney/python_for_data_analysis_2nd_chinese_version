@@ -8,7 +8,7 @@
 
 ***
 
-付费好用的代理推荐：[Brightdata SmartProxy 全球IP代理](https://www.smartproxy.cn/regist?invite=21YBCD)，1亿真实住宅IP资源。专业海外http代理商，千万优质纯净住宅IP资源，覆盖全球城市，高匿稳定提供100%原生住宅IP，支持社交账户，电商平台，网络数据收集等服务。成功率伪装度超高！！
+付费好用的代理推荐：[SmartProxy 全球IP代理](https://www.smartproxy.cn/regist?invite=21YBCD)，1亿真实住宅IP资源。专业海外http代理商，千万优质纯净住宅IP资源，覆盖全球城市，高匿稳定提供100%原生住宅IP，支持社交账户，电商平台，网络数据收集等服务。成功率伪装度超高！！
 付费套餐多种，需要高质量代理IP的可以注册后联系客服，[实名注册后赠送500M流量](https://www.smartproxy.cn/regist?invite=21YBCD)，不懂怎么用的同学可以问客服或者看视频教程。（官网有很多简单易懂的视频教学）
 
 - 超高并发备份：独享高性能服务器，以真实住宅地址进行请求访问，保持代理正常连接，不限制并发数量，降低业务成本，提高运行效率。
@@ -17,7 +17,7 @@
 - 技术服务：支持业务场景定制独享IP，千兆超高速带宽，出口IP可定制时效提供获取流量使用报告，追踪流量记录。  
 
 <div align=center>
-   <img src="https://user-images.githubusercontent.com/29977021/228770306-6c5d0b8a-c381-4be3-b500-e43fc47298b3.png" width="200px">
+   <img src="https://user-images.githubusercontent.com/29977021/228770306-6c5d0b8a-c381-4be3-b500-e43fc47298b3.png" width="300px">
 </div>
 
 官网链接：https://www.smartproxy.cn/
