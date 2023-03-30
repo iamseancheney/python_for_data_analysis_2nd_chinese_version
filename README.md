@@ -2,12 +2,6 @@
 
 ***
 
-推荐公开网页数据专家<a href="https://brightdata.grsm.io/bigdataresource">brightdata.com</a>，进入网站注册账号可免费获得诸如 亚马逊，沃尔玛，领英，抖音，Glassdoor，Airbnb，谷歌地图商家等数据集样本。详情注册后联系销售咨询（最好直接回复邮件），亲测是一个靠谱的公开网络数据源公司，他们的数据挖掘工具、代理网络服务也很不错，是一个目前已知最全面的商业数据平台，尤其合适需要准确且大规模结构性数据用户，企业用户可免费试用7天。
-
-链接：https://brightdata.grsm.io/bigdataresource
-
-***
-
 付费好用的代理推荐：[SmartProxy 全球IP代理](https://www.smartproxy.cn/regist?invite=21YBCD)，1亿真实住宅IP资源。专业海外http代理商，千万优质纯净住宅IP资源，覆盖全球城市，高匿稳定提供100%原生住宅IP，支持社交账户，电商平台，网络数据收集等服务。成功率伪装度超高！！
 付费套餐多种，需要高质量代理IP的可以注册后联系客服，[实名注册后赠送500M流量](https://www.smartproxy.cn/regist?invite=21YBCD)，不懂怎么用的同学可以问客服或者看视频教程。（官网有很多简单易懂的视频教学）
 
@@ -23,6 +17,12 @@
 官网链接：https://www.smartproxy.cn/
 
 专属注册链接：[https://www.smartproxy.cn/regist](https://www.smartproxy.cn/regist?invite=21YBCD)
+
+***
+
+推荐公开网页数据专家<a href="https://brightdata.grsm.io/bigdataresource">brightdata.com</a>，进入网站注册账号可免费获得诸如 亚马逊，沃尔玛，领英，抖音，Glassdoor，Airbnb，谷歌地图商家等数据集样本。详情注册后联系销售咨询（最好直接回复邮件），亲测是一个靠谱的公开网络数据源公司，他们的数据挖掘工具、代理网络服务也很不错，是一个目前已知最全面的商业数据平台，尤其合适需要准确且大规模结构性数据用户，企业用户可免费试用7天。
+
+链接：https://brightdata.grsm.io/bigdataresource
 
 ***
 
