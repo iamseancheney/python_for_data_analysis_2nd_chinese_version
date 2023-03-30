@@ -2,7 +2,7 @@
 
 推荐公开网页数据专家<a href="https://brightdata.grsm.io/bigdataresource">brightdata.com</a>，进入网站注册账号可免费获得诸如 亚马逊，沃尔玛，领英，抖音，Glassdoor，Airbnb，谷歌地图商家等数据集样本。详情注册后联系销售咨询（最好直接回复邮件），亲测是一个靠谱的公开网络数据源公司，他们的数据挖掘工具、代理网络服务也很不错，是一个目前已知最全面的商业数据平台，尤其合适需要准确且大规模结构性数据用户，企业用户可免费试用7天。
 
-* 付费代理推荐: [BrightData SmartProxy 智能代理](https://www.smartproxy.cn/regist?invite=21YBCD). 国外的亮数据BrightData被认为是代理市场领导者，覆盖全球的7200万IP，大部分是真人住宅IP，成功率扛扛的。付费套餐多种，需要高质量代理IP的可以注册后联系中文客服，开通后赠送5美金余额和教程指引(PS:用不明白的同学可以参考这个[使用教程](https://www.cnblogs.com/jhao/p/15611785.html))。[试用可获得500M流量](https://www.smartproxy.cn/regist?invite=21YBCD)。
+付费代理推荐: [BrightData SmartProxy 智能代理](https://www.smartproxy.cn/regist?invite=21YBCD). 国外的亮数据BrightData被认为是代理市场领导者，覆盖全球的7200万IP，大部分是真人住宅IP，成功率扛扛的。付费套餐多种，需要高质量代理IP的可以注册后联系中文客服，开通后赠送5美金余额和教程指引(PS:用不明白的同学可以参考这个[使用教程](https://www.cnblogs.com/jhao/p/15611785.html))。[试用可获得500M流量](https://www.smartproxy.cn/regist?invite=21YBCD)。
 
 <div align=center>
    <img src="https://user-images.githubusercontent.com/29977021/228770306-6c5d0b8a-c381-4be3-b500-e43fc47298b3.png" width="200px">
