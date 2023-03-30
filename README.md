@@ -22,7 +22,7 @@
 
 官网链接：https://www.smartproxy.cn/
 
-专属注册链接：[https://www.smartproxy.cn/regist?invite=4DWE6S](https://www.smartproxy.cn/regist?invite=21YBCD)
+专属注册链接：[https://www.smartproxy.cn/regist?invite=21YBCD](https://www.smartproxy.cn/regist?invite=21YBCD)
 
 ***
 
