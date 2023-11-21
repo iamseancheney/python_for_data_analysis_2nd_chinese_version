@@ -7,12 +7,12 @@
 <br/>
 
 <div align=center>
-    <a href="https://item.jd.com/13255935.html">
-        <img src="[https://tva1.sinaimg.cn/large/008vxvgGly1h8obhbvp37j30m80m8tal.jpg](https://p.ipic.vip/48zva4.png)" width="500px">
+    <a href="https://item.jd.com/14260998.html">
+        <img src="https://p.ipic.vip/48zva4.png" width="500px">
     </a>
 </div>
 <div align=center>
-    <a href="https://item.jd.com/13255935.html">购买链接</a>
+    <a href="https://item.jd.com/14260998.html">购买链接</a>
 </div>
 
 <br/>
