@@ -2,9 +2,29 @@
 
 ***
 
-推荐公开网页数据专家<a href="https://brightdata.grsm.io/bigdataresource">brightdata.com</a>，进入网站注册账号可免费获得诸如 亚马逊，沃尔玛，领英，抖音，Glassdoor，Airbnb，谷歌地图商家等数据集样本。详情注册后联系销售咨询（最好直接回复邮件），亲测是一个靠谱的公开网络数据源公司，他们的数据挖掘工具、代理网络服务也很不错，是一个目前已知最全面的商业数据平台，尤其合适需要准确且大规模结构性数据用户，企业用户可免费试用7天。
+[《利用Python进行数据分析》第3版已出版](https://item.jd.com/14260998.html)，新版小鼹鼠亮相，新版对初学者更友好了。
 
-链接：https://brightdata.grsm.io/bigdataresource
+<br/>
+
+<div align=center>
+    <a href="https://item.jd.com/13255935.html">
+        <img src="[https://tva1.sinaimg.cn/large/008vxvgGly1h8obhbvp37j30m80m8tal.jpg](https://p.ipic.vip/48zva4.png)" width="500px">
+    </a>
+</div>
+<div align=center>
+    <a href="https://item.jd.com/13255935.html">购买链接</a>
+</div>
+
+<br/>
+
+第三版多了**41**页内容，Pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是**紧贴Pandas升级，主要是新增了方法和特性的内容**。另外，第三版有作者的[在线开源电子版](https://wesmckinney.com/book/)了，GitHub[地址](https://github.com/wesm/pydata-book)。
+
+第三版目录略有调整，不如第二版和第一版的变化大：
+- 第4章NumPy基础新增了生成伪随机数；
+- 第7章数据清洗新增了扩展数据类型和分类数据，实际是把第二版中第12章的内容放到新版第7章里了；
+- 第11章时间序列新增了分组时间重采样。
+
+曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
 
 ***
 
@@ -33,40 +53,8 @@
 （译者注2：毫无疑问，本书是学习Python数据分析最好的参考书。本来想把书名直接译为《Python数据分析》，这样更简短。但是为了尊重第1版的翻译，考虑到继承性，还是用老书名。这样读过第一版的老读者可以方便的用之前的书名检索到第二版。作者在写第二版的时候，有些文字是照搬第一版的。所以第二版的翻译也借鉴copy了第一版翻译：即，如果第二版中有和第一版相同的文字，则copy第一版的中文译本，觉得不妥的地方会稍加修改，剩下的不同的内容就自己翻译。这样做也是为读过第一版的老读者考虑——相同的内容可以直接跳过。）
 
 ***
-
-> 21年春节翻译《Pandas Cookbook》这本书，[https://www.jianshu.com/p/9115de83bb88](https://www.jianshu.com/p/9115de83bb88)
-> 
-> 结果后来太忙搁置了，现在中文版出来了。这本书的特点是实例很多。
-
-<div align=center>
-    <a href="https://item.jd.com/13255935.html">
-        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obhbvp37j30m80m8tal.jpg" width="500px">
-    </a>
-</div>
-<div align=center>
-    <a href="https://item.jd.com/13255935.html">购买链接</a>
-</div>
-
 ***
 
-《利用Python进行数据分析》第3版已出版，新版小鼹鼠亮相，新版对初学者更友好了。
-
-<div align=center>
-   <img src="https://upload-images.jianshu.io/upload_images/7178691-8dfb9dd7b75260aa.png" width="500px">
-</div>
-
-第三版多了**41**页内容，Pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是**紧贴Pandas升级，主要是新增了方法和特性的内容**。另外，第三版有作者的[在线开源电子版](https://wesmckinney.com/book/)了，GitHub[地址](https://github.com/wesm/pydata-book)。
-
-第三版目录略有调整，不如第二版和第一版的变化大：
-- 第4章NumPy基础新增了生成伪随机数；
-- 第7章数据清洗新增了扩展数据类型和分类数据，实际是把第二版中第12章的内容放到新版第7章里了；
-- 第11章时间序列新增了分组时间重采样。
-
-曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
-
-***
-
-> 这两个多月又从头到尾看了遍第二版的文字，发现错误还真是不少。。。 T_T
 
 <div align=center>
     <a href="https://item.jd.com/13255935.html">
