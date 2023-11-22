@@ -2,17 +2,17 @@
 
 ***
 
-[《利用Python进行数据分析》中文第3版已出版](https://item.jd.com/14260998.html)，新版小鼹鼠亮相，对初学者更友好了。
+[《利用Python进行数据分析》中文第3版已出版](https://u.jd.com/W8xSkzl)，新版小鼹鼠亮相，对初学者更友好了。
 
 <br/>
 
 <div align=center>
-    <a href="https://item.jd.com/14260998.html">
+    <a href="https://u.jd.com/W8xSkzl">
         <img src="https://p.ipic.vip/48zva4.png" width="500px">
     </a>
 </div>
 <div align=center>
-    <a href="https://item.jd.com/14260998.html">购买链接</a>
+    <a href="https://u.jd.com/W8xSkzl">购买链接</a>
 </div>
 
 <br/>
