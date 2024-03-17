@@ -1,7 +1,3 @@
-# README
-
-***
-
 [《利用Python进行数据分析》中文第3版已出版](https://u.jd.com/W8xSkzl)，新版小鼹鼠亮相，对初学者更友好了。
 
 <br/>
@@ -53,14 +49,20 @@
 （译者注2：毫无疑问，本书是学习Python数据分析最好的参考书。本来想把书名直接译为《Python数据分析》，这样更简短。但是为了尊重第1版的翻译，考虑到继承性，还是用老书名。这样读过第一版的老读者可以方便的用之前的书名检索到第二版。作者在写第二版的时候，有些文字是照搬第一版的。所以第二版的翻译也借鉴copy了第一版翻译：即，如果第二版中有和第一版相同的文字，则copy第一版的中文译本，觉得不妥的地方会稍加修改，剩下的不同的内容就自己翻译。这样做也是为读过第一版的老读者考虑——相同的内容可以直接跳过。）
 
 ***
-***
-
 
 <div align=center>
-    <a href="https://item.jd.com/13255935.html">
-        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="200px">
-    </a>
-</div>
-<div align=center>
-    <p>我的微信·WeChat，欢迎沟通 ^_^</p>
+<table style="width:100%">
+    <tr align=center>
+        <th>加入【Python数据分析群】</th>
+        <th>我的微信·WeChat，欢迎沟通 ^_^</th>
+    </tr>
+    <tr>
+        <td align=center>
+            <img src="https://picx.zhimg.com/80/v2-b9b8d60248c2e646fba7cfc1d3225b7a_1440w.jpeg" width="200px">
+        </td>
+        <td align=center>
+            <img src="https://pic1.zhimg.com/80/v2-9c3fcdb6b62fbdb91faaeea42263a77a_1440w.png" width="200px">
+        </td>
+    </tr> 
+</table>
 </div>
