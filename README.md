@@ -61,7 +61,7 @@
             <img src="https://pica.zhimg.com/80/v2-90807596c89fc6ee619b672a2188dc32_1440w.png" width="200px">
         </td>
         <td align=center>
-            <img src="https://pic1.zhimg.com/80/v2-9c3fcdb6b62fbdb91faaeea42263a77a_1440w.png" width="200px">
+            <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" width="200px">
         </td>
     </tr> 
 </table>
