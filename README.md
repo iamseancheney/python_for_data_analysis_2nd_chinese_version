@@ -58,7 +58,7 @@
     </tr>
     <tr>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-59bcee15aa571246580b92ae8ee075ad_1440w.png" width="200px">
+            <img src="https://picx.zhimg.com/80/v2-38ad7a97985984b99425eeed3da515ac_1440w.png" width="200px">
         </td>
         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" width="200px">
