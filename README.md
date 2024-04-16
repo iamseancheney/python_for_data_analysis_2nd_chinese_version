@@ -63,10 +63,10 @@
     </tr>
     <tr>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-af61aeb9263906e86367f7bb6333994a_1440w.png" width="200px">
+            <img src="https://picx.zhimg.com/80/v2-af61aeb9263906e86367f7bb6333994a_1440w.png" height="300px">
         </td>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" width="200px">
+            <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
         </td>
     </tr> 
 </table>
