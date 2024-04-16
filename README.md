@@ -34,7 +34,7 @@
     <tr>
         <th align=left>
             <p>在简书上阅读： <a href="https://www.jianshu.com/p/16e04213aa91">https://www.jianshu.com/p/16e04213aa91</a></p>
-            第三版多了41页内容，Pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是**紧贴Pandas升级，主要是新增了方法和特性的内容**。另外，第三版有作者的[在线开源电子版](https://wesmckinney.com/book/)了，GitHub[地址](https://github.com/wesm/pydata-book)。
+            第三版多了41页内容，Pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是紧贴Pandas升级，主要是新增了方法和特性的内容。另外，第三版有作者的<a href="https://wesmckinney.com/book/">在线开源电子版</a>了，GitHub<a href="https://github.com/wesm/pydata-book">地址</a>。
 
 第三版目录略有调整，不如第二版和第一版的变化大：
 - 第4章NumPy基础新增了生成伪随机数；
@@ -46,8 +46,7 @@
         <th align=left>
             <p>在简书上阅读： <a href="https://www.jianshu.com/p/04d180d90a3f">https://www.jianshu.com/p/04d180d90a3f</a></p>
             
-
-下载本书代码（本书GitHub地址）：[https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book) （建议把代码下载下来之后，安装好Anaconda，在目录文件夹中用Jupyter notebook打开）
+下载本书代码，GitHub<a href="https://github.com/wesm/pydata-book/tree/2nd-edition">地址</a>（建议把代码下载下来之后，安装好Anaconda，在目录文件夹中用Jupyter notebook打开）。
 
 本书是2017年10月20号正式出版的，和第1版的不同之处有：
 
