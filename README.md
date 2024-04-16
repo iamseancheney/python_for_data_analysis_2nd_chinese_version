@@ -39,9 +39,7 @@
 
 在简书上阅读： [https://www.jianshu.com/p/04d180d90a3f](https://www.jianshu.com/p/04d180d90a3f)
 
-下载本书：[http://www.jianshu.com/p/fad9e41c1a42](http://www.jianshu.com/p/fad9e41c1a42) （更新为GitHub链接）
-
-下载本书代码（本书GitHub地址）：[https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book) （建议把代码下载下来之后，安装好Anaconda 3.6，在目录文件夹中用Jupyter notebook打开）
+下载本书代码（本书GitHub地址）：[https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book) （建议把代码下载下来之后，安装好Anaconda，在目录文件夹中用Jupyter notebook打开）
 
 本书是2017年10月20号正式出版的，和第1版的不同之处有：
 
@@ -73,3 +71,44 @@
     </tr> 
 </table>
 </div>
+
+***
+
+> 新版《利用Python进行数据分析》上市后，我一直在寻找一本Python数据分析的进阶书。经过漫长的搜索和等待，总算找到了，书名是《Fast Python》(中文书名极速Python)。
+
+<div align=center>
+<table style="width:100%">
+    <tr>
+        <td align=center>
+            <a href="https://www.amazon.com/Fast-Python-performance-techniques-datasets-ebook/dp/B0C3N4H919">
+                <img src="https://picx.zhimg.com/80/v2-82784ac9525f0d16c2dc561e1c7e934b_1440w.png" height="300px">
+            </a>
+        </td>
+        <td align=center>
+            <a href="https://item.jd.com/14121183.html">
+                <img src="https://pic1.zhimg.com/80/v2-2833cf04fb676ef850eb56ff286526ff_1440w.png" height="300px">
+            </a>
+        </td>
+    </tr> 
+    <tr align=center>
+        <th>
+            <a href="https://www.amazon.com/Fast-Python-performance-techniques-datasets-ebook/dp/B0C3N4H919">
+                <p>Fast Python: High performance techniques for large datasets</p>         
+            </a>
+        </th>
+        <th>
+            <a href="https://item.jd.com/14121183.html">
+                <p>极速Python：高性能编码、计算与数据分析</p>         
+            </a>
+        </th>
+    </tr>
+</table>
+</div>
+
+<div align=center>
+    <p><b>技术链条：Pandas > Arrow > Ray > ChatGPT > ?</b></p>
+</div>
+
+这本书在Amazon上市后，评论并不多，只有两个5星评价。但是，看完目录后，我立即就想认真读一读。《利用Python进行数据分析》主要围绕NumPy、Pandas、Matplotlib，内容比较偏基础。而工作中要处理的数据量变得越来越大，对技术的要求越来越高，基础方法已经不够用了，必须使用能处理大规模数据集的新方法。《极速Python》从软件到硬件，从单机到分布式，对Python高性能编程和大数据分析优化进行了系统性讲解。内容亮点包括Python代码分析、数据结构优化、内存优化、高并发编程、NumPy编程、Cython代码重构、pandas进阶、数据存储。针对当下最热点的技术领域，本书还重点讲解了Arrow、GPU编程和分布式数据处理。《Fast Python》比另一本优秀的《High Performance Python》的技术栈还要全！
+
+结合大语言模型研究热潮，阅读《极速Python》可以更好地理解最新的Python数据分析技术对技术界产生了巨大的影响。Pandas的作者Wes近年来主要开发了Arrow。Arrow提供了一种高效的数据格式和交换方式，使得在不同的计算框架和编程语言之间进行数据交换和分析变得更加容易和高效。通过将Arrow和Pandas结合使用，可以获得高性能的数据处理和分析能力。Arrow提供了快速的数据传输和交换机制，而Pandas提供了丰富的数据操作和分析功能。这使得在大规模数据集上进行数据处理和分析变得更加高效和便捷。进而，分布式机器学习框架Ray在Datasets组件中使用了Arrow，而22年底爆火的ChatGPT就是用Ray训练而成的。
