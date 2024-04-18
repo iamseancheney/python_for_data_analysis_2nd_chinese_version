@@ -121,7 +121,7 @@
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
         </td>
         <td align=center>
-            <img src="https://pic1.zhimg.com/80/v2-439e0af93b3938d8189f91b4556f1fc9_1440w.jpeg" width="160px">
+            <img src="https://picx.zhimg.com/80/v2-72d0e4f4b373738b400c30a5757edb90_1440w.jpeg" width="160px">
         </td>
     </tr> 
 </table>
