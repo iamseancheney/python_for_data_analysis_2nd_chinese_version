@@ -72,7 +72,7 @@
     <tr>
         <td align=center>
             <a href="https://www.amazon.com/Fast-Python-performance-techniques-datasets-ebook/dp/B0C3N4H919">
-                <img src="https://picx.zhimg.com/80/v2-82784ac9525f0d16c2dc561e1c7e934b_1440w.png" height="300px">
+                <img src="https://pica.zhimg.com/80/v2-b298d639d1535abf0df8c828c8c7cbfa_1440w.png" height="300px">
             </a>
         </td>
         <td align=center>
@@ -111,6 +111,7 @@
     <tr align=center>
         <th>加入【Python数据分析群】</th>
         <th>我的微信·WeChat，欢迎沟通 ^_^</th>
+        <th>AI科技论谈·分享AI新知</th>
     </tr>
     <tr>
         <td align=center>
@@ -118,6 +119,9 @@
         </td>
         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
+        </td>
+        <td align=center>
+            <img src="https://pic1.zhimg.com/80/v2-738690ed1a2fd73f95bae59532baa45f_1440w.jpeg" width="160px">
         </td>
     </tr> 
 </table>
