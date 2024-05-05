@@ -115,7 +115,7 @@
     </tr>
     <tr>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-b554b8df2c04580edbd2fa4b608c8eaf_1440w.png" height="300px">
+            <img src="https://pica.zhimg.com/80/v2-adef506578d131217b89b924f0ab61c0_1440w.png" height="300px">
         </td>
         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
