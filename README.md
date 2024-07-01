@@ -1,10 +1,3 @@
-🌟 大模型时代，开发模型需要海量数据，采集数据又离不开代理IP。推荐一家好用的数据集和代理IP服务 🌐💡【[bright.cn](https://get.brightdata.com/bigdataresource)】💡🌐，根植海外亮数据BrightData团队，数据集和代理市场领导者，覆盖全球的7200万IP，🌍🔥有轮动真人住宅IP跟机房IP，亲测稳定不易被封。有多种套餐可选，📦🔒还有不限流量的套餐。需要高质量代理IP的可以注册后联系中文客服，开通后赠送💵💰5美元试用和教程指引，报我名字【SeanCheney】可再得💵💰150美元套餐折扣。
-
-💡数据集和代理IP推荐💡【[bright.cn](https://get.brightdata.com/bigdataresource)】💡，进入网站注册账号可免费获得诸如 亚马逊，沃尔玛，领英，抖音，Glassdoor，Airbnb，谷歌地图商家等数据集样本。
-
-
-***
-
 <div>
 <table style="width:100%">
     <tr>
@@ -115,7 +108,7 @@
     </tr>
     <tr>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-bd685eaceda6d484c725bcdad110399f_1440w.jpeg" height="300px">
+            <img src="https://pica.zhimg.com/80/v2-686ef912a85933b2d0ffd3fd2ec75091_1440w.jpeg" height="300px">
         </td>
         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
