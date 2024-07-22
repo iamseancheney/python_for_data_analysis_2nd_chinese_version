@@ -109,7 +109,7 @@
     <tr>
         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-94cef186011f7ebf96b2fb52c9fbd12d_1440w.png" height="300px">
-            <p>超过200人了，先加我，拉你入群<img width="24" alt="1f4d9c4a-8447-427a-9bf4-ea03e8bec453" src="https://github.com/user-attachments/assets/e0fc6f24-9f53-40c1-9d1d-f341158dc46b"></p>
+            <p>超过200人了，先加我，拉你入群</p>
         </td>
         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
