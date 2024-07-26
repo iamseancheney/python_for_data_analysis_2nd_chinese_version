@@ -30,7 +30,7 @@
             <p>学习笔记：<a href="https://github.com/iamseancheney/python_for_data_analysis_3rd_study_note">python_for_data_analysis_3rd_study_note</a></p>
             <p>勘误：<a href="https://github.com/iamseancheney/python_for_data_analysis_3rd_study_note/blob/main/%E5%8B%98%E8%AF%AF.md">链接（感谢读者们的反馈）</a></p>            
             <p>在简书上阅读： <a href="https://www.jianshu.com/p/16e04213aa91">https://www.jianshu.com/p/16e04213aa91</a></p>
-            第三版多了41页内容，Pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是紧贴Pandas升级，主要是新增了方法和特性的内容。另外，第三版有作者的<a href="https://wesmckinney.com/book/">在线开源电子版</a>了，GitHub<a href="https://github.com/wesm/pydata-book">地址</a>。
+            <p>第三版多了41页内容，Pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是紧贴Pandas升级，主要是新增了方法和特性的内容。另外，第三版有作者的<a href="https://wesmckinney.com/book/">在线开源电子版</a>了，GitHub<a href="https://github.com/wesm/pydata-book">地址</a>。</p> 
 
 第三版目录略有调整，不如第二版和第一版的变化大：
 - 第4章NumPy基础新增了生成伪随机数；
