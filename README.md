@@ -102,18 +102,17 @@
 <div align=center>
 <table style="width:100%">
     <tr align=center>
-        <th>加入【Python数据分析群】</th>
-        <th>我的微信·WeChat，欢迎沟通 ^_^</th>
+        <th>【Python数据分析群】，拉你入群</th>
+<!--         <th>我的微信·WeChat，欢迎沟通 ^_^</th> -->
         <th>AI科技论谈·分享AI新知</th>
     </tr>
     <tr>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-94cef186011f7ebf96b2fb52c9fbd12d_1440w.png" height="300px">
-            <p>超过200人了，先加我，拉你入群</p>
+            <img src="https://picx.zhimg.com/80/v2-3301f242afabf3c8365b9ecadef3de6d_1440w.png" height="300px">            
         </td>
-        <td align=center>
+<!--         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
-        </td>
+        </td> -->
         <td align=center>
             <img src="https://picx.zhimg.com/80/v2-72d0e4f4b373738b400c30a5757edb90_1440w.jpeg" width="160px">
         </td>
