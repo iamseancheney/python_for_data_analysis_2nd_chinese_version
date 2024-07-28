@@ -2,7 +2,7 @@
 <table style="width:100%">
     <tr>
         <td align=center>
-            <a href="https://u.jd.com/W8xSkzl">
+            <a href="https://item.jd.com/14260998.html">
                 <img src="https://p.ipic.vip/48zva4.png" height="300px">
             </a>
         </td>
@@ -14,7 +14,7 @@
     </tr> 
     <tr align=center>
         <th>
-            <a href="https://u.jd.com/W8xSkzl">
+            <a href="https://item.jd.com/14260998.html">
                 <p>利用Python进行数据分析》第3版</p>         
             </a>
         </th>
