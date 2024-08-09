@@ -102,44 +102,39 @@
 ***
 
 <div align=center>
-<table style="width:100%">
-    <tr align=center>
-        <th>【Python数据分析群】，拉你入群</th>
-<!--         <th>我的微信·WeChat，欢迎沟通 ^_^</th> -->
-        <th>AI科技论谈·分享AI新知</th>
-    </tr>
-    <tr>
-        <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-3301f242afabf3c8365b9ecadef3de6d_1440w.png" height="300px">            
-        </td>
-<!--         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
-        </td> -->
-        <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-72d0e4f4b373738b400c30a5757edb90_1440w.jpeg" width="160px">
-        </td>
-    </tr> 
-</table>
+<!-- <table style="width:100%"> -->
+<!--     <tr align=center> -->
+<!--         <th>【Python数据分析群】，拉你入群</th> -->
+<!--         <th>AI科技论谈·分享AI新知</th> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--         <td align=center> -->
+<!--             <img src="https://picx.zhimg.com/80/v2-3301f242afabf3c8365b9ecadef3de6d_1440w.png" height="300px">             -->
+<!--         </td> -->
+<!--         <td align=center> -->
+<!--             <img src="https://picx.zhimg.com/80/v2-72d0e4f4b373738b400c30a5757edb90_1440w.jpeg" width="160px"> -->
+<!--         </td> -->
+<!--     </tr>  -->
+<!-- </table> -->
 </div>
 
-***
 
 
 
 <div align=center>
 <table style="width:100%">
     <tr align=center>
-        <th>翻译三个月，工作砌码，回家码字，手竟然脱皮了 :joy:</th>
-<!--         <th>我的微信·WeChat，欢迎沟通 ^_^</th> -->
+        <th>【Python数据分析群】，拉你入群</th>
+        <th>用三个月完成了翻译，工作砌码回家码字，手竟然脱皮了 :joy:</th>
         <th>感谢赞赏 :sparkling_heart:</th>
     </tr>
     <tr>
         <td align=center>
+            <img src="https://picx.zhimg.com/80/v2-3301f242afabf3c8365b9ecadef3de6d_1440w.png" height="300px">            
+        </td>
+        <td align=center>
             <img src="https://upload-images.jianshu.io/upload_images/7178691-260d699e695f8e81.jpg" height="300px">            
         </td>
-<!--         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
-        </td> -->
         <td align=center>
             <img src="https://pic1.zhimg.com/80/v2-c499eb01a64368f08d77776d6f43e26e_1440w.png" width="160px">
         </td>
