@@ -131,7 +131,7 @@
     <tr align=center>
         <th>翻译三个月，工作砌码，回家码字，手竟然脱皮了 :joy:</th>
 <!--         <th>我的微信·WeChat，欢迎沟通 ^_^</th> -->
-        <th>支持开源翻译 :sparkling_heart:</th>
+        <th>感谢赞赏 :sparkling_heart:</th>
     </tr>
     <tr>
         <td align=center>
@@ -141,7 +141,7 @@
             <img src="https://picx.zhimg.com/80/v2-1bc464c93aaf40b2d6d6cfbed157e101_1440w.png" height="300px">
         </td> -->
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-b272ad761b5a8b12f550b2bb3e72e4c9_1440w.png" width="160px">
+            <img src="https://pic1.zhimg.com/80/v2-c499eb01a64368f08d77776d6f43e26e_1440w.png" width="160px">
         </td>
     </tr> 
 </table>
