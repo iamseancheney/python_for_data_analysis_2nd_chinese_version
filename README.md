@@ -26,7 +26,8 @@
     </tr>
     <tr>
         <th align=left>
-            <p>各章导读视频：<a href="https://www.bilibili.com/video/BV1pC4y117Bh/">https://www.bilibili.com/video/BV1pC4y117Bh/</a></p>
+            <p>各章导读视频：<a href="https://www.bilibili.com/video/BV1pC4y117Bh/">https://www.bilibili.com/video/BV1pC4y117Bh/</a></p>            
+            <p>微信读书：<a href="https://weread.qq.com/web/reader/adc32180813ab8786g014ba6">https://weread.qq.com/web/reader/adc32180813ab8786g014ba6</a></p>
             <p>学习笔记：<a href="https://github.com/iamseancheney/python_for_data_analysis_3rd_study_note">python_for_data_analysis_3rd_study_note</a></p>
             <p>勘误：<a href="https://github.com/iamseancheney/python_for_data_analysis_3rd_study_note/blob/main/%E5%8B%98%E8%AF%AF.md">链接（感谢读者们的反馈🙏）</a></p>            
             <p>在简书上阅读： <a href="https://www.jianshu.com/p/16e04213aa91">https://www.jianshu.com/p/16e04213aa91</a></p>
