@@ -127,7 +127,7 @@
     <tr align=center>
         <th>【Python数据分析群】，拉你入群</th>
         <th>用三个月完成了翻译，工作砌码回家码字，手竟然脱皮了 :joy:</th>
-        <th>感谢赞赏 :sparkling_heart:</th>
+<!--         <th>感谢赞赏 :sparkling_heart:</th> -->
     </tr>
     <tr>
         <td align=center>
@@ -136,9 +136,9 @@
         <td align=center>
             <img src="https://upload-images.jianshu.io/upload_images/7178691-260d699e695f8e81.jpg" height="300px">            
         </td>
-        <td align=center>
+<!--         <td align=center>
             <img src="https://pic1.zhimg.com/80/v2-c499eb01a64368f08d77776d6f43e26e_1440w.png" width="160px">
-        </td>
+        </td> -->
     </tr> 
 </table>
 </div>
