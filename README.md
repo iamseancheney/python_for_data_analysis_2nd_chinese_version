@@ -3,7 +3,7 @@
 支持免费测试！Swiftproxy 提供全球高质量纯净住宅IP，包括动态住宅代理和静态住宅代理，其最大的特点是其动态流量不过期，流量用完为止，静态IP购买后30天内不限制流量。越来越多的企业选择 Swiftproxy 来满足其住宅代理需求，使其成为网络爬虫和社交媒体管理的首选。Swiftproxy 提供超过 9000 万个 IP 地址，并配备免费的精准定位功能，非常适合社交媒体管理、市场调研和公共数据采集。
 
 <p align=center>
-    https://www.swiftproxy.net
+    <a href="https://www.swiftproxy.net/?ref=iamseancheney"> https://www.swiftproxy.net</a>
 </p>
 
 
