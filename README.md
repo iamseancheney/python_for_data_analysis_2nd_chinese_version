@@ -1,17 +1,12 @@
-<img src="https://picx.zhimg.com/80/v2-0ebe4e21000806542deaa1657cf58665_1440w.png">
+<a href="https://www.thordata.com/?ls=github&lk=python">
+    <img src="https://pic1.zhimg.com/80/v2-41ebf05a08238e6639a83eeefeeae761_1440w.png">
+</a>
 
-支持免费测试！Swiftproxy 提供全球高质量纯净住宅IP，包括动态住宅代理和静态住宅代理，其最大的特点是其动态流量不过期，流量用完为止，静态IP购买后30天内不限制流量。越来越多的企业选择 Swiftproxy 来满足其住宅代理需求，使其成为网络爬虫和社交媒体管理的首选。Swiftproxy 提供超过 9000 万个 IP 地址，并配备免费的精准定位功能，非常适合社交媒体管理、市场调研和公共数据采集。
+Thordata是全球代理IP解决方案提供商，支持大规模采集公共网络数据，提供 195+ 国家城市、6000 万住宅IP，价格低至 $0.65/GB，支持不限流量、不限IP、不限并发；还包括本土独享ISP静态代理和高性能数据中心代理（均为 $0.75/IP，弹性定价）。点击图片注册后联系中文客服即可免费试用，现在首充还有赠送同额金额活动。可与EasySpider工具配合使用，高效采集网络数据。
 
 <p align=center>
-    <a href="https://www.swiftproxy.net/?ref=iamseancheney"> https://www.swiftproxy.net</a>
+    <a href="https://www.thordata.com/?ls=github&lk=python">https://www.thordata.com/</a>
 </p>
-
-
-Swiftproxy具备哪些优势？
-- 1.庞大的 IP 池和精确定位： 覆盖全球 220 个地区，可将代理服务器定位到城市级别，可适用于网页抓取、数据收集、社交媒体营销、广告验证、品牌保护、SEO等业务。同时，Swiftproxy提供庞大的IP池，具有超9000万个真实住宅IP，确保IP的纯净可靠。
-- 2.灵活会话： 提供轮转会话和粘性会话，允许用户在不同 IP 之间切换或长期保持同一 IP。
-- 3.多协议支持： 支持 HTTP/HTTPS 和 SOCKS5 协议，可以与 650 多种工具和软件选项轻松集成。
-- 4.购买的流量永不过期： 用户可以按照自己的节奏使用购买的数据，无需担心流量过期。
 
 ***
 
@@ -20,7 +15,7 @@ Swiftproxy具备哪些优势？
     <tr>
         <td align=center>
             <a href="https://item.jd.com/14260998.html">
-                <img src="https://img3.doubanio.com/view/subject/l/public/s34761707.jpg" height="300px">
+                <img src="https://picx.zhimg.com/80/v2-f56a3557f647f548d1f0d61f976441e3_1440w.png" height="300px">
             </a>
         </td>
         <td align=center>
