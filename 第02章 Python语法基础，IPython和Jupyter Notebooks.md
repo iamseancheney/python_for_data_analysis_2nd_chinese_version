@@ -1,8 +1,12 @@
-***
+<a href="https://www.thordata.com/?ls=github&lk=python">
+    <img src="https://pic1.zhimg.com/80/v2-41ebf05a08238e6639a83eeefeeae761_1440w.png">
+</a>
 
-🌟 大模型时代，开发模型需要海量数据，采集数据又离不开代理IP。推荐一家好用的数据集和代理IP服务 🌐💡【[bright.cn](https://get.brightdata.com/bigdataresource)】💡🌐，根植海外亮数据BrightData团队，数据集和代理市场领导者，覆盖全球的7200万IP，🌍🔥有轮动真人住宅IP跟机房IP，亲测稳定不易被封。有多种套餐可选，📦🔒还有不限流量的套餐。需要高质量代理IP的可以注册后联系中文客服，开通后赠送💵💰5美元试用和教程指引，报我名字【SeanCheney】可再得💵💰150美元套餐折扣。
+🌟 大模型时代，开发模型需要海量数据，采集数据又离不开代理IP。🌐💡【[Thordata](https://www.thordata.com/?ls=github&lk=python)】💡🌐是全球代理IP解决方案提供商，支持大规模采集公共网络数据，提供 195+ 国家城市、6000 万住宅IP，价格低至 $0.65/GB，🌍🔥支持不限流量、不限IP、不限并发；还包括本土独享ISP静态代理和高性能数据中心代理（均为 $0.75/IP，弹性定价）。📦🔒点击图片注册后联系中文客服即可免费试用，现在首充还有赠送同额金额活动。可与EasySpider工具配合使用，高效采集网络数据。
 
-💡数据集和代理IP推荐💡【[bright.cn](https://get.brightdata.com/bigdataresource)】💡，进入网站注册账号可免费获得诸如 亚马逊，沃尔玛，领英，抖音，Glassdoor，Airbnb，谷歌地图商家等数据集样本。
+<p align=center>
+    <a href="https://www.thordata.com/?ls=github&lk=python">https://www.thordata.com/</a>
+</p>
 
 ***
 
