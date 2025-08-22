@@ -1,15 +1,3 @@
-<a href="https://www.thordata.com/?ls=github&lk=python">
-    <img src="https://pic1.zhimg.com/80/v2-41ebf05a08238e6639a83eeefeeae761_1440w.png">
-</a>
-
-Thordata是全球代理IP解决方案提供商，支持大规模采集公共网络数据，提供 195+ 国家城市、6000 万住宅IP，价格低至 $0.65/GB，支持不限流量、不限IP、不限并发；还包括本土独享ISP静态代理和高性能数据中心代理（均为 $0.75/IP，弹性定价）。点击图片注册后联系中文客服即可免费试用，现在首充还有赠送同额金额活动。可与EasySpider工具配合使用，高效采集网络数据。
-
-<p align=center>
-    <a href="https://www.thordata.com/?ls=github&lk=python">https://www.thordata.com/</a>
-</p>
-
-***
-
 <a href="https://bestproxy.com/?keyword=m2nto9ln">
     <img src="https://github.com/user-attachments/assets/7d02450d-9f3f-42ae-9372-5a2dadd0418f">
 </a>
