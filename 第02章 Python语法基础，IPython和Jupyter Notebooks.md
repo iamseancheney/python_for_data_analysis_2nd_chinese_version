@@ -1,11 +1,13 @@
-<a href="https://www.thordata.com/?ls=github&lk=python">
-    <img src="https://pic1.zhimg.com/80/v2-41ebf05a08238e6639a83eeefeeae761_1440w.png">
+<a href="https://app.nstproxy.com/billing?utm_source=sean">
+    <img src="https://github.com/user-attachments/assets/f34bb61b-88ab-40bd-a03d-637999c18de9">
 </a>
 
-🌟 大模型时代，开发模型需要海量数据，采集数据又离不开代理IP。🌐💡【[Thordata](https://www.thordata.com/?ls=github&lk=python)】💡🌐是全球代理IP解决方案提供商，支持大规模采集公共网络数据，提供 195+ 国家城市、6000 万住宅IP，价格低至 $0.65/GB，🌍🔥支持不限流量、不限IP、不限并发；还包括本土独享ISP静态代理和高性能数据中心代理（均为 $0.75/IP，弹性定价）。📦🔒点击图片注册后联系中文客服即可免费试用，现在首充还有赠送同额金额活动。可与EasySpider工具配合使用，高效采集网络数据。
+[Nstproxy](https://app.nstproxy.com/billing?utm_source=sean) — 全球领先的数据抓取与自动化代理服务商，为企业与开发者提供覆盖 195+ 国家/地区、超1.1亿真实住宅IP 的高匿名代理网络。支持 住宅代理、ISP代理、移动代理、数据中心代理，实现城市级精准定位，完美适配电商监控、SEO数据、大规模爬虫任务等多种业务场景。
+全网最低至 $0.1/GB 起按量付费；支持 HTTP(S)/SOCKS5 协议，具备 99.99% 高可用性与超低封禁率，轻松绕过各类反爬与风控机制。
+提供 中文工程师技术支持、企业定制方案、免费试用 1GB，帮助您以最低成本启动。
 
 <p align=center>
-    <a href="https://www.thordata.com/?ls=github&lk=python">https://www.thordata.com/</a>
+    <a href="https://www.nstproxy.com?utm_source=sean">https://www.nstproxy.com/</a>
 </p>
 
 ***
