@@ -31,24 +31,24 @@ BestProxy全球独享专属资源池，优选海外195+国家/地区高质量住
 <table style="width:100%">
     <tr>
         <td align=center>
-            <a href="https://item.jd.com/14260998.html">
+            <a href="https://u.jd.com/ZaRjN76">
                 <img src="https://picx.zhimg.com/80/v2-f56a3557f647f548d1f0d61f976441e3_1440w.png" height="300px">
             </a>
         </td>
         <td align=center>
-            <a href="https://item.jd.com/12398725.html">
+            <a href="">
                 <img src="https://img3.doubanio.com/view/subject/l/public/s33711257.jpg" height="300px">
             </a>
         </td>
     </tr> 
     <tr align=center>
         <th>
-            <a href="https://item.jd.com/14260998.html">
+            <a href="https://u.jd.com/ZaRjN76">
                 <p>利用Python进行数据分析》第3版</p>         
             </a>
         </th>
         <th>
-            <a href="https://item.jd.com/12398725.html">
+            <a href="">
                 <p>利用Python进行数据分析》第2版</p>         
             </a>
         </th>
@@ -90,33 +90,23 @@ BestProxy全球独享专属资源池，优选海外195+国家/地区高质量住
 
 ***
 
-> 新版《利用Python进行数据分析》上市后，我一直在寻找一本Python数据分析的进阶书。经过漫长的搜索和等待，总算找到了，书名是《Fast Python》(中文书名极速Python)。
+> 《利用Python进行数据分析》升级版，《Polars权威指南》现已上市，Polars团队撰写，创始人Ritchie Vink作序，pandas创始人Wes Mckinney推荐，让你更高效地进行数据处理。
 
 <div align=center>
 <table style="width:100%">
     <tr>
         <td align=center>
-            <a href="https://www.amazon.com/Fast-Python-performance-techniques-datasets-ebook/dp/B0C3N4H919">
-                <img src="https://pica.zhimg.com/80/v2-b298d639d1535abf0df8c828c8c7cbfa_1440w.png" height="300px">
+            <a href="https://u.jd.com/ZGRsN3H">
+                <img src="https://github.com/user-attachments/assets/08513ac0-0ef8-4f30-ae0e-ca8a820ea0a2" height="300px">
             </a>
-        </td>
-        <td align=center>
-            <a href="https://item.jd.com/14121183.html">
-                <img src="https://pic1.zhimg.com/80/v2-2833cf04fb676ef850eb56ff286526ff_1440w.png" height="300px">
-            </a>
-        </td>
+        </td>        
     </tr> 
     <tr align=center>
         <th>
-            <a href="https://www.amazon.com/Fast-Python-performance-techniques-datasets-ebook/dp/B0C3N4H919">
-                <p>Fast Python: High performance techniques for large datasets</p>         
+            <a href="https://u.jd.com/ZGRsN3H">
+                <p>《Polars权威指南》</p>         
             </a>
-        </th>
-        <th>
-            <a href="https://item.jd.com/14121183.html">
-                <p>极速Python：高性能编码、计算与数据分析</p>         
-            </a>
-        </th>
+        </th>        
     </tr>
 </table>
 </div>
