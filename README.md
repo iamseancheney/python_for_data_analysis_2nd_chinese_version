@@ -36,9 +36,7 @@ BestProxy全球独享专属资源池，优选海外195+国家/地区高质量住
             </a>
         </td>
         <td align=center>
-            <a href="">
-                <img src="https://img3.doubanio.com/view/subject/l/public/s33711257.jpg" height="300px">
-            </a>
+            <img src="https://img3.doubanio.com/view/subject/l/public/s33711257.jpg" height="300px">            
         </td>
     </tr> 
     <tr align=center>
@@ -47,10 +45,8 @@ BestProxy全球独享专属资源池，优选海外195+国家/地区高质量住
                 <p>利用Python进行数据分析》第3版</p>         
             </a>
         </th>
-        <th>
-            <a href="">
-                <p>利用Python进行数据分析》第2版</p>         
-            </a>
+        <th>          
+            <p>利用Python进行数据分析》第2版</p>
         </th>
     </tr>
     <tr>
