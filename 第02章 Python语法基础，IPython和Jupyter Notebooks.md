@@ -1,13 +1,11 @@
-<a href="https://app.nstproxy.com/billing?utm_source=sean">
-    <img src="https://github.com/user-attachments/assets/f34bb61b-88ab-40bd-a03d-637999c18de9">
+<a href="https://bestproxy.com/?keyword=m2nto9ln">
+    <img src="https://github.com/user-attachments/assets/7d02450d-9f3f-42ae-9372-5a2dadd0418f">
 </a>
 
-[Nstproxy](https://app.nstproxy.com/billing?utm_source=sean) — 全球领先的数据抓取与自动化代理服务商，为企业与开发者提供覆盖 195+ 国家/地区、超1.1亿真实住宅IP 的高匿名代理网络。支持 住宅代理、ISP代理、移动代理、数据中心代理，实现城市级精准定位，完美适配电商监控、SEO数据、大规模爬虫任务等多种业务场景。
-全网最低至 $0.1/GB 起按量付费；支持 HTTP(S)/SOCKS5 协议，具备 99.99% 高可用性与超低封禁率，轻松绕过各类反爬与风控机制。
-提供 中文工程师技术支持、企业定制方案、免费试用 1GB，帮助您以最低成本启动。
+BestProxy全球独享专属资源池，优选海外195+国家/地区高质量住宅IP，本地ISP原生IP，不限量住宅代理、长效ISP代理、静态数据中心代理、网页爬虫API，城市级精准定位，支持HTTP(S)和SOCKS5协议，低检测风险，全方位代理服务解决方案，助力各种场景业务IP代理需求。$0.66/G起按需付费和长期套餐，适合不同预算需求，24/7多语言支持，联系客服免费试用500M。
 
 <p align=center>
-    <a href="https://www.nstproxy.com?utm_source=sean">https://www.nstproxy.com/</a>
+    <a href="https://bestproxy.com/?keyword=m2nto9ln">https://bestproxy.com/</a>
 </p>
 
 ***
