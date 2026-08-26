@@ -1,13 +1,16 @@
 <p align=center>
 <a href="https://www.rapidproxy.io/?ref=iams">
-    <img src="https://github.com/user-attachments/assets/16d12f5b-f4b2-40f2-9a73-0b8427c90835" width=400px>
+    <img src="https://github.com/user-attachments/assets/4f067451-fc69-4532-8a2e-ac09d9d86e8a" width=800px>
 </a>
 </p>
 
-RapidProxy 提供全球 9000万+ 真实住宅 IP，支持动态/静态住宅代理，覆盖 190+ 国家与地区。高匿名、低封禁、稳定高速，流量长期有效不过期，轻松应对验证码、访问限制与平台风控。静态住宅代理支持固定 ISP IP 与稳定网络身份，可有效降低多账号关联风险。立即免费测试吧！
+
+IPWO 提供全球住宅代理 IP 资源，适用于 Python 数据采集、网页抓取、市场研究及自动化测试等应用场景。
+
+覆盖 195+ 国家和地区的住宅 IP 资源，帮助开发者根据项目需求配置不同地区的网络环境，为数据获取与后续分析提供支持。免费测试入口，90折扣码：0204
 
 <p align=center>
-    <a href="https://www.rapidproxy.io/?ref=iams">https://www.rapidproxy.io</a>
+    <a href="https://www.ipwo.net/?ref=githubiamseancheney">https://www.ipwo.net/</a>
 </p>
 
 <!-- <a href="https://bestproxy.com/?keyword=m2nto9ln">
